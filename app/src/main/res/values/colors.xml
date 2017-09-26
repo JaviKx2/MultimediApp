@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorPrimaryLight">#E0E0E0</color>
+    <color name="colorAccent">#000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="newsCardBgColor">#f1f1f1</color>
+    <color name="s1">#F44336</color>
+    <color name="s2">#0091EA</color>
+    <color name="s3">#FFEB3B</color>
+    <color name="s4">#76FF03</color>
+</resources>

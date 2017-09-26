@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MultiMediApp</string>
+    <string name="splashscreen_icon_contentdesc">SplashScreen Icon</string>
+    <string name="splashscreen_text_loading">Cargando…</string>
+    <string name="splash_no_internet_title">No hay conexión a internet</string>
+    <string name="splash_no_internet_msg">¿Abrir configuración de wi-fi?</string>
+    <string name="title_activity_news">Noticias</string>
+    <string name="title_activity_news_detail">Noticia</string>
+    <string name="title_activity_catalogue">Catálogo</string>
+    <string name="title_activity_fav_news">Noticias favoritas</string>
+    <string name="title_activity_fav_catalogue">Catálogo favorito</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_login">Iniciar sesión</string>
+    <string name="nav_news">Noticias</string>
+    <string name="nav_catalogue">Catálogo</string>
+    <string name="nav_favs">Noticias favoritas</string>
+    <string name="get_news_fail">Fallo al obtener las noticias</string>
+    <string name="news_thumbnail_desc">News Thumbnail</string>
+    <string name="share_provider_txt">Share</string>
+    <string name="action_fav">Marcar como favorito</string>
+    <string name="txt_save_into_favs">Guardado en favoritos</string>
+
+    <string name="txt_under_construction">En construcción</string>
+    <string name="dialog_title_delete_fav">Eliminar favorito</string>
+    <string name="dialog_msg_delete_fav">¿Está seguro que desea eliminarlo?</string>
+    <string name="action_delete_favs">Eliminar favoritos</string>
+    <string name="dialog_msg_delete_all_favs">¿Eliminar todos los favoritos?</string>
+    <string name="dialog_title_delete_all_favs">Eliminar favoritos</string>
+
+    <string name="search_title">Buscar…</string>
+    <string name="no_content">No hay elementos que coincidan con la búsqueda.</string>
+    <string name="tab_series">Series</string>
+    <string name="tab_movies">Películas</string>
+    <string name="tab_documentaries">Documentales</string>
+    <string name="tab_tv_shows">Shows TV</string>
+    <string name="media_title">Título desconocido</string>
+    <string name="get_catalogue_fail">Fallo al obtener el catálogo.</string>
+    <string name="imagen">Imagen</string>
+    <string name="catalogue_seasons">Temporadas</string>
+    <string name="catalogue_sinopsis">Sinopsis</string>
+
+    <string name="nav_favcatalogue">Catálogo favorito</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_post_example">Ejemplo POST</string>
+    <string name="hint_nombre">Título del album</string>
+    <string name="nav_postexample">Ejemplo POST</string>
+    <string name="msg_album_creation">"Album creado con id: "</string>
+    <string name="msg_error_post">Error:</string>
+</resources>
